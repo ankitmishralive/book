@@ -1,0 +1,11 @@
+
+
+
+google.generativeai
+
+langchain
+langchain-google-genai
+langchain-chroma
+beautifulsoup4
+requests
+python-dotenv
